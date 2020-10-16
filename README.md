@@ -60,6 +60,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/onebis})
-- Twitter [@your-twitter](https://twitter.com/Mibis238)
+- GitHub [https://github.com/onebis]
+- Twitter [https://twitter.com/Mibis238]
 
